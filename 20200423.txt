@@ -1,0 +1,21 @@
+Fixed Price
+9.9
+Soup: Shoyu
+Noodles: Medium
+Spring Onion: No
+Nori: Yes
+Chashu: Yes
+Boiled Egg: No
+Spiciness: 2
+Add-ons
+1
+Extra Nori: 1
+1
+Extra Boiled Egg
+0
+Bamboo Shoots
+0
+Extra Chashu
+0
+2020/04/23 11:32:41
+

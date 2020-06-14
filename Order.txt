@@ -1,0 +1,21 @@
+Fixed Price
+10.0
+Soup: Tonkotsu
+Noodles: Soft
+Spring Onion: No
+Nori: No
+Chashu: No
+Boiled Egg: No
+Spiciness: 1
+Add-ons
+2
+Extra Nori
+0
+Extra Boiled Egg
+0
+Bamboo Shoots: 1
+2
+Extra Chashu
+0
+Total
+12.0

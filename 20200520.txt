@@ -1,0 +1,126 @@
+Fixed Price 
+9.9 
+Soup: Shio 
+Noodles: Firm 
+Spring Onion: Just a Little 
+Nori: No 
+Chashu: No 
+Boiled Egg: No 
+Spiciness: 2 
+Add-ons 
+2 
+Extra Nori 
+0 
+Extra Boiled Egg 
+0 
+Bamboo Shoots 
+0 
+Extra Chashu: 1 
+2 
+2020/05/20 13:45:47
+
+Fixed Price 
+9.9 
+Soup: Shio 
+Noodles: Firm 
+Spring Onion: Just a Little 
+Nori: No 
+Chashu: Yes 
+Boiled Egg: Yes 
+Spiciness: 1 
+Add-ons 
+3 
+Extra Nori 
+0 
+Extra Boiled Egg: 1 
+1 
+Bamboo Shoots: 1 
+2 
+Extra Chashu 
+0 
+2020/05/20 13:46:07
+
+Fixed Price 
+9.9 
+Soup: Shoyu 
+Noodles: Medium 
+Spring Onion: Just a Little 
+Nori: Yes 
+Chashu: Yes 
+Boiled Egg: Yes 
+Spiciness: 2 
+Add-ons 
+6 
+Extra Nori: 1 
+1 
+Extra Boiled Egg: 1 
+1 
+Bamboo Shoots: 1 
+2 
+Extra Chashu: 1 
+2 
+2020/05/20 15:16:20
+
+Fixed Price 
+9.9 
+Soup: Shoyu 
+Noodles: Medium 
+Spring Onion: Just a Little 
+Nori: Yes 
+Chashu: Yes 
+Boiled Egg: Yes 
+Spiciness: 2 
+Add-ons 
+6 
+Extra Nori: 1 
+1 
+Extra Boiled Egg: 1 
+1 
+Bamboo Shoots: 1 
+2 
+Extra Chashu: 1 
+2 
+2020/05/20 15:16:21
+
+Fixed Price 
+9.9 
+Soup: Shoyu 
+Noodles: Soft 
+Spring Onion: Just a Little 
+Nori: No 
+Chashu: Yes 
+Boiled Egg: Yes 
+Spiciness: 3 
+Add-ons 
+2 
+Extra Nori 
+0 
+Extra Boiled Egg 
+0 
+Bamboo Shoots 
+0 
+Extra Chashu: 1 
+2 
+2020/05/20 15:17:49
+
+Fixed Price 
+9.9 
+Soup: Shoyu 
+Noodles: Medium 
+Spring Onion: No 
+Nori: Yes 
+Chashu: Yes 
+Boiled Egg: No 
+Spiciness: 3 
+Add-ons 
+4 
+Extra Nori: 1 
+1 
+Extra Boiled Egg: 1 
+1 
+Bamboo Shoots: 1 
+2 
+Extra Chashu 
+0 
+2020/05/20 16:19:53
+

@@ -1,0 +1,42 @@
+Fixed Price 
+9.9 
+Soup: Shoyu 
+Noodles: Soft 
+Spring Onion: No 
+Nori: Yes 
+Chashu: No 
+Boiled Egg: No 
+Spiciness: 2 
+Add-ons 
+2 
+Extra Nori: 1 
+1 
+Extra Boiled Egg: 1 
+1 
+Bamboo Shoots 
+0 
+Extra Chashu 
+0 
+2020/05/08 22:16:46
+
+Fixed Price 
+9.9 
+Soup: Shoyu 
+Noodles: Medium 
+Spring Onion: No 
+Nori 
+Chashu: Yes 
+Boiled Egg: Yes 
+Spiciness: 2 
+Add-ons 
+2 
+Extra Nori 
+0 
+Extra Boiled Egg: 1 
+1 
+Bamboo Shoots: 1 
+1 
+Extra Chashu 
+0 
+2020/05/08 22:17:08
+

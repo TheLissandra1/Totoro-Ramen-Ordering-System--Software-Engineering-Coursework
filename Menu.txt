@@ -1,0 +1,40 @@
+10.0
+Soup
+Tonkotsu
+Shoyu
+Shio
+Noodles
+Soft
+Medium
+Firm
+Spring Onion
+No
+Just a Little
+A lot
+Nori
+Yes
+No
+.
+Chashu
+Yes
+No
+.
+Boiled Egg
+Yes
+No
+.
+Spiciness
+0(No)
+1
+2
+3
+4
+5(Max)
+Extra Nori
+1
+Extra Boiled Egg
+2
+Bamboo Shoots
+2
+Extra Chashu
+2
