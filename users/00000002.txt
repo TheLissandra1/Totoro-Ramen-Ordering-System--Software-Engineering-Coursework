@@ -1,0 +1,6 @@
+UserImformation: 
+Family name: asd
+Given name: asd
+Contact way: 123
+Password: 1025
+Stamps: 899

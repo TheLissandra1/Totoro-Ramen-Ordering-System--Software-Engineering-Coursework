@@ -1,0 +1,6 @@
+UserImformation: 
+Family name: Lixinebi
+Given name: SAA
+Contact way: 1111
+Password: 11111111
+Stamps: 0

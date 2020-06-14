@@ -1,0 +1,6 @@
+UserImformation: 
+Family name: Li
+Given name: Xinbei
+Contact way: 18610932197
+Password: 11111111
+Stamps: 0
